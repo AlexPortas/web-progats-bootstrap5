@@ -2,3 +2,7 @@
     --color-brand: #733729;
     --color-contrast: #D9BBA0;
 }
+body {
+    background-image: url("img/pawns.jpg");
+    background-color: #cccccc;
+}
