@@ -6,3 +6,9 @@ body {
     background-image: url("img/pawns.jpg");
     background-color: #cccccc;
 }
+
+.btn-contactar {
+    background-color: var(--color-contrast);
+    color: var(--color-brand);
+    font-weight: 700;
+}
